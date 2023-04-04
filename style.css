@@ -1,0 +1,181 @@
+#wrapper{
+    background:white;
+}
+#header{
+    background-color: rgb(133, 82, 116);
+}
+
+#center{
+    background: gray;
+    height:100px;
+    margin: auto;
+    width: 980px;
+}
+#left{
+    float:left;
+    font-size: 40px;
+    line-height: 100px;
+    text-align:center;
+    width: 370px;
+}
+#menu{
+    float: right;
+    height: 30px;
+    margin: 42px 0 0;
+    width: 530px;
+   }
+#menu a{
+    color:black;
+    font-size: 15px;
+    font-weight: bold;
+    padding:8px 12px;
+}
+
+#view{
+    color: aliceblue;
+    height:300px;
+}
+
+#middle_division{
+    height: 300px;
+    width: 980px;
+    margin:0 auto;    
+    background-color: rgb(0, 139, 100);
+
+}
+#titles{
+   
+    width: 300px;
+    float:left;
+    font-size: 13px;
+    margin:40px 10px 10px 10px;
+    border:1px solid gray;
+    border-radius:10px;
+ 
+
+}
+#titles h2{
+    width: 200px;
+    padding:10px 0 0 50px;
+
+}
+
+#titles p{
+    padding : 5px 10px 10px;
+    line-height: 20px; 
+}
+
+
+#Link{
+    height: 320px;
+
+}
+
+#center_Link{
+    background: #DDD;
+    height: 320px;
+    width: 980px;
+    margin: 0 auto;
+}
+
+#sidebar{
+    float: left;
+    width: 280px;
+    margin: 10px;
+    padding-top: 10px;
+    background: white   ;
+}
+#sidebar #title{
+    line-height: 30px;
+    padding: 0 0 0 15px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: bold;
+ 
+}
+
+#sidebar ul{
+    list-style: none;
+    width: 280px;
+}
+
+#sidebar li{
+    color:black;
+
+}
+
+#sidebar a {
+    color:#000;
+}
+
+#mid_text{
+    width: 670px;
+    height: 300px;
+    margin: 10px 10px 10px 0;
+    background: #EEE;
+    font-size: 14px;
+    float: right;
+}
+
+#mid_text h2{
+    padding:10px 0 10px 20px;
+
+    }
+
+#mid_text p{
+    margin: 15px;
+}
+
+#LL,#RL{
+
+    width:270px;
+    float: left;
+    margin: 10px 10px 20px 50px;
+}
+
+#LL ul,#RL ul{
+
+    list-style: url();
+}
+
+
+#LL a,#RL a{
+    line-height: 30px;
+}
+
+#footer{
+    height: 130px;
+}
+
+#center-footer{
+    background: #000;
+    height: 130px;
+    width: 980px;
+    margin: 0 auto;
+}
+
+#left_footer,right_footer{
+    width: 450px;
+}
+
+#left_footer img{
+    width:60px;
+    height:60px;
+
+}
+#right_footer{
+    float:right;
+}
+#right_footer a {
+    color:white;
+    padding: 0 10px;
+    line-height: 21px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#footer span{
+    color: rgb(247, 7, 7);
+    font-size: 13px;
+    margin-left: 150px;
+}
